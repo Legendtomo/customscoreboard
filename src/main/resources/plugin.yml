@@ -1,0 +1,10 @@
+name: customscoreboard
+description: this is customscoreboard
+version: 1.0-snapshot
+main: com.github.legendtomo.customscoreboard.main
+
+commands:
+  customscoreboard:
+    aliases: [csb]
+    usage: /<command>
+    description: this is csb
